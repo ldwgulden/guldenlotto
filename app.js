@@ -9,7 +9,7 @@ var config = {
   app_name: 'Gulden Lotto',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: 'MetEenBreierdeck.',  // <----- EDIT ME!  
+  recaptcha_sitekey: '6Lch_AkUAAAAAJumu9pCDF2hF0HtSA0Kq0CrO0Nw',  // <----- EDIT ME!  
   redirect_uri: 'https://ldwgulden.github.io/guldenlotto',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
